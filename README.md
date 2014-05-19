@@ -83,7 +83,7 @@ For each object in `objects`, there *may* be a corresponding entry in another JS
 This warmup can be completed multiple times to increase your comfort level with the material.
 To work on this from scratch, you can:
 
-1. Add an upstream remote that points to the original repo `git remote add upstream git@github.com:gSchool/text-centering.git`
+1. Add an upstream remote that points to the original repo `git remote add upstream git@github.com:gSchool/activity-feed.git`
 1. Fetch the latest from the upstream remote using `git fetch upstream`
 1. Create a new branch from the master branch of the upstream remote `git checkout -b v2 upstream/master`
 1. Implement specs and code
